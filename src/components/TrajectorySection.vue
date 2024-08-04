@@ -19,7 +19,7 @@
   <script setup>
   const items = [
     { 
-      title: 'Estudo na Escola Rui Barbosa', 
+      title: 'Estudou na Escola Rui Barbosa', 
       description: 'Iniciou seus estudos na Escola Rui Barbosa, onde desenvolveu uma base sólida em várias disciplinas e participou ativamente de projetos extracurriculares.' 
     },
     { 
